@@ -1,0 +1,167 @@
+2020/03/04 08:30:04 start listening
+2020/03/04 08:30:04 listening started
+2020/03/04 08:30:04 start accepting
+2020/03/04 08:30:19 connection accepted
+2020/03/04 08:30:19 start accepting
+2020/03/04 08:30:19 start reading
+2020/03/04 08:30:19 connection accepted
+2020/03/04 08:30:19 start accepting
+2020/03/04 08:30:19 start reading
+2020/03/04 08:30:19 request: GET / HTTP/1.1
+2020/03/04 08:30:19 method: GET; request: /; protocol: HTTP/1.1
+2020/03/04 08:30:19 text/html
+2020/03/04 08:30:19 connection accepted
+2020/03/04 08:30:19 start accepting
+2020/03/04 08:30:19 start reading
+2020/03/04 08:30:23 can't read string: EOF
+2020/03/04 08:30:23 can't read string: EOF
+2020/03/04 08:30:23 connection accepted
+2020/03/04 08:30:23 start accepting
+2020/03/04 08:30:23 start reading
+2020/03/04 08:30:23 connection accepted
+2020/03/04 08:30:23 start accepting
+2020/03/04 08:30:23 start reading
+2020/03/04 08:30:26 request: GET /image.jpg HTTP/1.1
+2020/03/04 08:30:26 method: GET; request: /image.jpg; protocol: HTTP/1.1
+2020/03/04 08:30:26 image/jpg
+2020/03/04 08:30:26 connection accepted
+2020/03/04 08:30:26 start accepting
+2020/03/04 08:30:26 start reading
+2020/03/04 08:30:29 request: GET /image.png HTTP/1.1
+2020/03/04 08:30:29 method: GET; request: /image.png; protocol: HTTP/1.1
+2020/03/04 08:30:29 image/png
+2020/03/04 08:30:30 connection accepted
+2020/03/04 08:30:30 start accepting
+2020/03/04 08:30:30 start reading
+2020/03/04 08:30:32 request: GET /page.html HTTP/1.1
+2020/03/04 08:30:32 method: GET; request: /page.html; protocol: HTTP/1.1
+2020/03/04 08:30:32 text/html
+2020/03/04 08:30:32 connection accepted
+2020/03/04 08:30:32 start accepting
+2020/03/04 08:30:32 start reading
+2020/03/04 08:30:33 can't read string: EOF
+2020/03/04 08:30:33 can't read string: EOF
+2020/03/04 08:30:35 connection accepted
+2020/03/04 08:30:35 start accepting
+2020/03/04 08:30:35 start reading
+2020/03/04 08:30:35 connection accepted
+2020/03/04 08:30:35 start accepting
+2020/03/04 08:30:35 start reading
+2020/03/04 08:30:36 request: GET /file.txt HTTP/1.1
+2020/03/04 08:30:36 method: GET; request: /file.txt; protocol: HTTP/1.1
+2020/03/04 08:30:36 text/plain
+2020/03/04 08:30:37 connection accepted
+2020/03/04 08:30:37 start accepting
+2020/03/04 08:30:37 start reading
+2020/03/04 08:30:43 can't read string: EOF
+2020/03/04 08:30:43 can't read string: EOF
+2020/03/04 08:30:43 connection accepted
+2020/03/04 08:30:43 start accepting
+2020/03/04 08:30:43 start reading
+2020/03/04 08:30:43 connection accepted
+2020/03/04 08:30:43 start accepting
+2020/03/04 08:30:43 start reading
+2020/03/04 08:30:43 request: GET /sample.pdf HTTP/1.1
+2020/03/04 08:30:43 method: GET; request: /sample.pdf; protocol: HTTP/1.1
+2020/03/04 08:30:43 application/pdf
+2020/03/04 08:30:44 connection accepted
+2020/03/04 08:30:44 start accepting
+2020/03/04 08:30:44 start reading
+2020/03/04 08:30:53 can't read string: EOF
+2020/03/04 08:30:53 can't read string: EOF
+2020/03/04 08:30:53 connection accepted
+2020/03/04 08:30:53 start accepting
+2020/03/04 08:30:53 start reading
+2020/03/04 08:30:53 connection accepted
+2020/03/04 08:30:53 start accepting
+2020/03/04 08:30:53 start reading
+2020/03/04 08:30:56 request: GET /image.jpg HTTP/1.1
+2020/03/04 08:30:56 method: GET; request: /image.jpg; protocol: HTTP/1.1
+2020/03/04 08:30:56 image/jpg
+2020/03/04 08:30:56 connection accepted
+2020/03/04 08:30:56 start accepting
+2020/03/04 08:30:56 start reading
+2020/03/04 08:31:03 can't read string: EOF
+2020/03/04 08:31:03 can't read string: EOF
+2020/03/04 08:31:04 connection accepted
+2020/03/04 08:31:04 start accepting
+2020/03/04 08:31:04 start reading
+2020/03/04 08:31:04 connection accepted
+2020/03/04 08:31:04 start accepting
+2020/03/04 08:31:04 start reading
+2020/03/04 08:31:04 request: GET /image.jpg?download HTTP/1.1
+2020/03/04 08:31:04 method: GET; request: /image.jpg; protocol: HTTP/1.1
+2020/03/04 08:31:04 application/octet-stream
+2020/03/04 08:31:13 can't read string: EOF
+2020/03/04 08:31:16 connection accepted
+2020/03/04 08:31:16 start accepting
+2020/03/04 08:31:16 start reading
+2020/03/04 08:31:16 connection accepted
+2020/03/04 08:31:16 start accepting
+2020/03/04 08:31:16 start reading
+2020/03/04 08:31:18 request: GET /image.png HTTP/1.1
+2020/03/04 08:31:18 method: GET; request: /image.png; protocol: HTTP/1.1
+2020/03/04 08:31:18 image/png
+2020/03/04 08:31:18 connection accepted
+2020/03/04 08:31:18 start accepting
+2020/03/04 08:31:18 start reading
+2020/03/04 08:31:23 can't read string: EOF
+2020/03/04 08:31:23 can't read string: EOF
+2020/03/04 08:31:25 connection accepted
+2020/03/04 08:31:25 start accepting
+2020/03/04 08:31:25 start reading
+2020/03/04 08:31:25 connection accepted
+2020/03/04 08:31:25 start accepting
+2020/03/04 08:31:25 start reading
+2020/03/04 08:31:25 request: GET /image.png?download HTTP/1.1
+2020/03/04 08:31:25 method: GET; request: /image.png; protocol: HTTP/1.1
+2020/03/04 08:31:25 application/octet-stream
+2020/03/04 08:31:30 connection accepted
+2020/03/04 08:31:30 start accepting
+2020/03/04 08:31:30 start reading
+2020/03/04 08:31:31 request: GET /page.html HTTP/1.1
+2020/03/04 08:31:31 method: GET; request: /page.html; protocol: HTTP/1.1
+2020/03/04 08:31:31 text/html
+2020/03/04 08:31:31 connection accepted
+2020/03/04 08:31:31 start accepting
+2020/03/04 08:31:31 start reading
+2020/03/04 08:31:33 can't read string: EOF
+2020/03/04 08:31:33 can't read string: EOF
+2020/03/04 08:31:37 connection accepted
+2020/03/04 08:31:37 start accepting
+2020/03/04 08:31:37 start reading
+2020/03/04 08:31:37 connection accepted
+2020/03/04 08:31:37 start accepting
+2020/03/04 08:31:37 start reading
+2020/03/04 08:31:37 request: GET /page.html?download HTTP/1.1
+2020/03/04 08:31:37 method: GET; request: /page.html; protocol: HTTP/1.1
+2020/03/04 08:31:37 application/octet-stream
+2020/03/04 08:31:43 can't read string: EOF
+2020/03/04 08:31:44 connection accepted
+2020/03/04 08:31:44 start accepting
+2020/03/04 08:31:44 start reading
+2020/03/04 08:31:44 connection accepted
+2020/03/04 08:31:44 start accepting
+2020/03/04 08:31:44 start reading
+2020/03/04 08:31:48 request: GET /sample.pdf HTTP/1.1
+2020/03/04 08:31:48 method: GET; request: /sample.pdf; protocol: HTTP/1.1
+2020/03/04 08:31:48 application/pdf
+2020/03/04 08:31:48 connection accepted
+2020/03/04 08:31:48 start accepting
+2020/03/04 08:31:48 start reading
+2020/03/04 08:31:53 can't read string: EOF
+2020/03/04 08:31:53 can't read string: EOF
+2020/03/04 08:31:56 connection accepted
+2020/03/04 08:31:56 start accepting
+2020/03/04 08:31:56 start reading
+2020/03/04 08:31:56 connection accepted
+2020/03/04 08:31:56 start accepting
+2020/03/04 08:31:56 start reading
+2020/03/04 08:31:56 request: GET /sample.pdf?download HTTP/1.1
+2020/03/04 08:31:56 method: GET; request: /sample.pdf; protocol: HTTP/1.1
+2020/03/04 08:31:56 application/octet-stream
+2020/03/04 08:32:00 connection accepted
+2020/03/04 08:32:00 start accepting
+2020/03/04 08:32:00 start reading
+2020/03/04 08:32:03 can't read string: EOF
+2020/03/04 08:32:03 can't read string: EOF
